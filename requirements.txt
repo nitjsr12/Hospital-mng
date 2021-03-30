@@ -14,7 +14,7 @@ config==0.4.2
 configparser==4.0.2
 crayons==0.3.0
 cryptography==2.8
-Django==3.0.5
+Django==3.0.12
 django-multiselectfield==0.1.12
 docutils==0.15.2
 Flask==1.1.1
