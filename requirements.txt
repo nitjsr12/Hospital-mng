@@ -47,7 +47,7 @@ pathlib2==2.3.5
 pdfkit==0.6.1
 Pillow==7.1.2
 pluggy==0.13.1
-py==1.8.0
+py==1.10.0
 pycparser==2.19
 Pygments==2.5.2
 pylint==2.4.4
